@@ -1,6 +1,4 @@
-[![Build Status](https://travis-ci.org/benderjs/benderjs-example-project.svg?branch=master)](https://travis-ci.org/benderjs/benderjs-example-project)
-
-# benderjs-example-project
+# manual-tests
 
 Example project using [Bender.js](https://github.com/benderjs/benderjs) for the testing. The tests are written in [Jasmine](jasmine.github.io) and loaded with [benderjs-jasmine](https://github.com/benderjs/benderjs-jasmine) test framework adapter.
 
