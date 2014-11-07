@@ -1,3 +1,9 @@
+CKEDITOR.replace( 'editor' );
+
+function normalize( string ) {
+	return string.replace( /[\n\r\s]+/g, ' ' );
+}
+
 describe( 'Basic Styles', function() {
 	it( 'should style a paragraph', function() {
 		var data = CKEDITOR.instances.editor.getData();
